@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danil1046
-- 👀 I’m interested in Pyhon
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://t.me/boyaroff7
 
 <!---
